@@ -42,3 +42,15 @@
 ![Image](https://github.com/user-attachments/assets/78e7d670-0784-4f04-b5fe-55f0abe44cd5)
 
 <br>
+
+
+
+#### 7. In the Connect to data destination window, specify the Root folder as Files and select Next. This will write the data to the Files section of the lakehouse.
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/65a3fe3d-eede-4c7a-a221-9476aa67375a)
+
+<br>
+
+
