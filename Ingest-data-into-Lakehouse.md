@@ -18,5 +18,27 @@
 <br>
 
 
+#### Pipeline Main UI 
+![Image](https://github.com/user-attachments/assets/e44cab14-a65d-41c2-8685-c8c0905d829d)
 
 
+#### 5. Next, set up an HTTP connection to import the sample World Wide Importers data into the Lakehouse. From the list of New sources, select View more, search for Http and select it.
+
+<br> 
+
+![Image](https://github.com/user-attachments/assets/bd146473-ecd6-4158-a9c5-0fb41a63c56b)
+
+
+<br> 
+
+![Image](https://github.com/user-attachments/assets/eeb0b54d-a06d-497c-8f1d-776ed5000638)
+
+
+
+#### 6. In the next step, enable the Binary copy and choose ZipDeflate (.zip) as the Compression type since the source is a .zip file. Keep the other fields at their default values and select Next.
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/78e7d670-0784-4f04-b5fe-55f0abe44cd5)
+
+<br>
