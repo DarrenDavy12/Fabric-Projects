@@ -9,6 +9,7 @@
 
 
 #### 2. Select Workspaces in the left navigation pane, and then select your new workspace from the Workspaces menu. The items view of your workspace appears.
+
 #### 3. From the New item option in the workspace ribbon, select Data pipeline.
 #### 4. In the New pipeline dialog box, specify the name as IngestDataFromSourceToLakehouse and select Create. A new data factory pipeline is created and opened.
 
@@ -53,4 +54,40 @@
 
 <br>
 
+![Image](https://github.com/user-attachments/assets/664162f7-fa1b-482f-a5d6-85fcac55c35f)
 
+
+
+#### 8. Select Next, the destination file format is automatically set to Binary. Next select Save+Run. 
+#### You can schedule pipelines to refresh data periodically. 
+#### In this tutorial, we only run the pipeline once. The data copy process takes approximately 10-15 minutes to complete.
+<br> 
+
+![Image](https://github.com/user-attachments/assets/7344d06d-cdba-4d09-a805-c1666bca4bdb)
+
+
+<br>
+
+
+#### 9. You can monitor the pipeline execution and activity in the Output tab. 
+#### You can also view detailed data transfer information by selecting the glasses icon next to the pipeline name, which appears when you hover over the name.
+
+<br> 
+
+![Image](https://github.com/user-attachments/assets/49e72a55-8e4a-4da3-9146-60f4e7b0cda1)
+
+
+#### So I waited for the data transfer to be successfull. 
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/294b8de8-b31d-44d5-b2dd-11565e137113)
+
+<br> 
+
+
+#### 10. Verify that the folder WideWorldImportersDW is present in the Explorer view and contains data for all tables.
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/30ae5b5e-ca32-4ec8-9ba8-45c690f7f02e)
